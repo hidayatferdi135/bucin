@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Nick", "Cewe", "Akan", "Di", "Random"],
+  nicknames: ["Vani", "Novebrianti", "Vani", "Noferdiyanto", "Vani"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "Assalamualaikum",
+    afternoon: "Assalamualaikum",
+    day: "Assalamualaikum",
+    morning: "Assalamualaikum",
+    night: "Assalamualaikum"
   }
 };
